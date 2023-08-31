@@ -19,7 +19,6 @@ Weatther3D is an immersive weather app that visualizes weather data on a 3D glob
 
 Weatther3D is a web application that takes weather data to the next level by providing an interactive and visually stunning experience. It leverages Three.js to create a 3D globe where users can explore weather conditions in various cities across the world.
 
-![Weatther3D Screenshot](path-to-your-screenshot-image.png)
 
 ## Installation
 
