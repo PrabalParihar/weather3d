@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Weatther3D
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Weatther3D Logo](path-to-your-logo-image.png)
 
-## Available Scripts
+**Version:** 0.1.0
 
-In the project directory, you can run:
+Weatther3D is an immersive weather app that visualizes weather data on a 3D globe created using Three.js.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Description
 
-### `npm test`
+Weatther3D is a web application that takes weather data to the next level by providing an interactive and visually stunning experience. It leverages Three.js to create a 3D globe where users can explore weather conditions in various cities across the world.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Weatther3D Screenshot](path-to-your-screenshot-image.png)
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To set up Weatther3D locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone <repository-url>
+   
+   ```bash
+   npm install
 
-### `npm run eject`
+2. Create a .env file and configure your environment variables, if necessary.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Usage
+To launch Weatther3D, use the following command:
+```
+   npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   This command starts the development server, and you can access the application in your web browser at http://localhost:3000. Explore weather data for cities around the world in an immersive 3D globe.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4.Features
+  Visualize weather data on a 3D globe.
+  Interactive globe navigation.
+  Real-time weather updates.
+  Explore weather conditions in various cities.
+  Customizable globe appearance.
+  Contributing
+  We welcome contributions to Weatther3D. To contribute:
 
-## Learn More
+5.Fork the project.
+  Create a new branch for your feature or bug fix.
+  Make your changes and commit them.
+  Push your changes to your fork.
+  Create a pull request to merge your changes into the main repository.
+  Please follow our Contributor Covenant Code of Conduct and adhere to the project's coding standards.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+6.License
+ 
+  Explore the world's weather in a whole new dimension with Weatther3D!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  This project was created as an assignment for the Frontend Developer position at HelloARApplied. Explore the world's weather in a whole new dimension with Weatther3D!
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  For more information or support, contact hello@prabal.me .
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
