@@ -1,6 +1,6 @@
 # Weatther3D
 
-![Weatther3D Logo](path-to-your-logo-image.png)
+![Weatther3D Logo](https://file%252B.vscode-resource.vscode-cdn.net/var/folders/yz/qt0t9zx10dq848pt_19msk340000gn/T/TemporaryItems/NSIRD_screencaptureui_SVKcmm/Screenshot%25202023-09-02%2520at%252011.06.57%2520PM.png?version%253D1693676248132)
 
 **Version:** 0.1.0
 
@@ -28,9 +28,8 @@ To set up Weatther3D locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PrabalParihar/weather3d.git
    
-   ```bash
    npm install
 
 2. Create a .env file and configure your environment variables, if necessary.
@@ -38,7 +37,7 @@ To set up Weatther3D locally, follow these steps:
 
 3. Usage
 To launch Weatther3D, use the following command:
-```
+   ```
    npm start
 
    This command starts the development server, and you can access the application in your web browser at http://localhost:3000. Explore weather data for cities around the world in an immersive 3D globe.
