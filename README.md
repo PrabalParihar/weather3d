@@ -1,6 +1,7 @@
 # Weatther3D
 
-![Weatther3D Logo](https://file%252B.vscode-resource.vscode-cdn.net/var/folders/yz/qt0t9zx10dq848pt_19msk340000gn/T/TemporaryItems/NSIRD_screencaptureui_SVKcmm/Screenshot%25202023-09-02%2520at%252011.06.57%2520PM.png?version%253D1693676248132)
+
+<img width="1440" alt="Screenshot 2023-09-02 at 11 11 50 PM" src="https://github.com/PrabalParihar/weather3d/assets/62445763/f352244d-f0dc-4d2e-bf0f-2a7bcff9a5cf">
 
 **Version:** 0.1.0
 
